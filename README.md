@@ -5,7 +5,7 @@
 - Form Validation
 - ARIA Labels
 ## git command used in this lab
-add .
+- add .
 - git commit -m "comment"
 - git push
 - git checkout -b development
